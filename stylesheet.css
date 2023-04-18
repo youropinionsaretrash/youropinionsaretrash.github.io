@@ -1,0 +1,128 @@
+/* Author: Abby Lucier
+   Filename: portfolio_style.css
+   Date: March 2022 */
+
+.contact {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-bottom: 20px;
+    }
+.information{
+    padding: 20px;
+}
+    a {
+        color: dimgray;
+        font-family: futura-pt, sans-serif;
+    }
+    a:visited {color:  }
+    a:hover {color: #1F6357;}
+    a:active { color: #1F6357;}
+    
+    img{ 
+        max-width: 100%;
+        height: auto;
+        padding-bottom: 10px;}
+    p{
+        
+        font-family: futura-pt, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        color: dimgray;}
+    
+    
+    h1{ 
+        color: #1F6357;
+        font-family: futura-pt, sans-serif;
+        font-weight: 00;
+        font-style: normal;
+        text-align: center;
+     }
+    h2 {
+        color: #1F6357;
+        font-family: futura-pt, sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        text-align: center;
+        
+    }
+
+    
+    h3 { 
+        color: #1F6357;
+        font-family: futura-pt, sans-serif;
+        font-weight: 500;
+}
+    
+ h4 { 
+        color: #1F6357;
+        font-family: futura-pt, sans-serif;
+        font-weight: 400;
+   
+  }
+
+ul {
+    font-family:  futura-pt, sans-serif;
+    font-weight: 400;
+    color: dimgray;}
+
+.navbar {
+        margin-bottom: 10px;
+        font-family: futura-pt, sans-serif; 
+}
+
+
+.btn {
+    background-color: #1F6357;
+    color: whitesmoke;
+    font-family: futura-pt, sans-serif;
+    
+}
+.overview {
+    background-color: whitesmoke;
+    margin: 20px;
+    padding: 20px;
+}
+
+    .about { 
+        background-color: whitesmoke;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 50px;}
+    .heading {  
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    
+    .project_container {
+        margin: 20px;
+        padding: 20px;
+        background-color: whitesmoke;
+    }
+    
+.accordionitems {
+    background-color: white;
+    margin: 5px;
+}
+.accordion-button {
+    font-family: futura-pt, sans-serif;
+    font-weight: 100;
+    padding: 10px;
+    color: dimgrey;
+    width: 100%;
+    text-align: left;
+    border: none;
+    
+}
+    footer {
+
+    
+        background-color: #1F6357;
+        padding: 10px;
+        color: whitesmoke;
+        font-family: futura-pt, sans-serif;
+    
+        
+        
+    }
